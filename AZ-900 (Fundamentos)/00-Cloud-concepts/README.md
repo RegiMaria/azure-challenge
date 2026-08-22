@@ -81,11 +81,11 @@ Este learning path concede **4 badges + 1 trophy**.
 
 <div align="center"> <img width="200" alt="Image" src="https://github.com/user-attachments/assets/52b55575-06bf-47c0-8419-746256e1523f" /> </div>
 
-| Dia | Data | Tópico | Descrição | Certificado (repo) | Link AWS |
+| Dia | Data | Tópico | Descrição | Certificado (repo) | Link Azure |
 |----|------|--------|-----------|---------------------|----------|
-| 01 | 21/08 |Describe cloud computings | Este módulo apresenta os fundamentos da computação em nuvem, abordando conceitos básicos de nuvem, modelos de implantação e o modelo de responsabilidade compartilhada. | [Ver-certificado](xxx) | [Abrir-curso](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/?wt.mc_id=studentamb_625645) |
-| 02 | 22/08 | Describe the benefits of using cloud services | Este módulo apresenta os principais benefícios que a computação em nuvem pode oferecer para você ou para a sua organização. | [Ver-certificado](cccc) | [Abrir-curso ](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/?wt.mc_id=studentamb_625645)|
-| 03 | 22/08 | Describe cloud service types | Este módulo aborda os diferentes tipos de serviços em nuvem (IaaS, PaaS, SaaS) e apresenta casos de uso e vantagens associados a cada um deles | [Ver-certificado](dddd) | [Abrir-curso](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/?wt.mc_id=studentamb_625645) |
+| 01 | 21/08 |Describe cloud computings | Este módulo apresenta os fundamentos da computação em nuvem, abordando conceitos básicos de nuvem, modelos de implantação e o modelo de responsabilidade compartilhada. | [Ver-certificado](https://github.com/RegiMaria/azure-challenge/blob/main/AZ-900%20(Fundamentos)/00-Cloud-concepts/day-01-descibe-cloud-computing.png) | [Abrir-curso](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/?wt.mc_id=studentamb_625645) |
+| 02 | 21/08 | Describe the benefits of using cloud services | Este módulo apresenta os principais benefícios que a computação em nuvem pode oferecer para você ou para a sua organização. | [Ver-certificado](https://github.com/RegiMaria/azure-challenge/blob/main/AZ-900%20(Fundamentos)/00-Cloud-concepts/day-02-the-benefits-cloud.png) | [Abrir-curso ](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/?wt.mc_id=studentamb_625645)|
+| 03 | 21/08 | Describe cloud service types | Este módulo aborda os diferentes tipos de serviços em nuvem (IaaS, PaaS, SaaS) e apresenta casos de uso e vantagens associados a cada um deles | [Ver-certificado](https://github.com/RegiMaria/azure-challenge/blob/main/AZ-900%20(Fundamentos)/00-Cloud-concepts/day-03-service-types.png) | [Abrir-curso](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/?wt.mc_id=studentamb_625645) |
 
 
 <div align="center">
