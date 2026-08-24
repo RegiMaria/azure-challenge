@@ -80,11 +80,11 @@ Este repositório documenta meu progresso na trilha de estudos da Microsoft Lear
 | # | Badge/Credencial | Módulo referente | Imagem |
 |---|---|---|:---:|
 | 1 | Badge | Criar, configurar e gerenciar identidades | <img width="50" height="50" alt="Badge - Criar, configurar e gerenciar identidades" src="https://github.com/user-attachments/assets/61368dca-8061-466c-a830-8a3970d73c79" /> |
-| 2 | Badge | Descrever as capacidades de autenticação do Microsoft Entra ID | *(pendente)* |
+| 2 | Badge | Descrever as capacidades de autenticação do Microsoft Entra ID | <img width="50" height="50" alt="Badge - Describes authentication capabilities ENTRA ID" src="https://github.com/user-attachments/assets/d4c4214e-cb8f-4ece-ab5c-383cf12fee70" /> |
 | 3 | Badge | Descrever as funcionalidades de gerenciamento de acesso do Microsoft Entra | *(pendente)* |
 | 4 | Badge | Descrever os recursos de governança e proteção de identidade do Microsoft Entra | *(pendente)* |
 | 5 | Badge | Introdução aos laboratórios de identidade e acesso | *(pendente)* |
-| 🏆 | Applied Skills | Avaliação final — Introdução às identidades e ao acesso usando o Microsoft Entra | *(pendente)* |
+| 🏆 | Applied Skills | Avaliação final - Introdução às identidades e ao acesso usando o Microsoft Entra | *(pendente)* |
 
 ---
 
@@ -108,7 +108,7 @@ microsoft-entra-id/
 | Dia | Data | Módulo | Descrição | Certificado (repo) | Link Microsoft Learn |
 |----|------|--------|-----------|---------------------|----------|
 | 01 | 23/08 | Criar, configurar e gerenciar identidades | Noções básicas de criação, configuração e gerenciamento de usuários e grupos; gerenciamento de licenças e registro de dispositivo. | [Ver-certificado](https://github.com/RegiMaria/azure-challenge/blob/main/Applied-Skills/Microsoft-Entra/day-01-Entra-ID-create-configure-manage.png) | [Abrir curso](https://learn.microsoft.com/training/modules/create-configure-manage-identities/?wt.mc_id=studentamb_625645) |
-| 02 | | Descrever as capacidades de autenticação do Microsoft Entra ID | Métodos de autenticação, proteção por senha e SSPR. | *(pendente)* | [Abrir curso](https://learn.microsoft.com/training/modules/explore-authentication-capabilities/?wt.mc_id=studentamb_625645) |
+| 02 | | Descrever as capacidades de autenticação do Microsoft Entra ID | Métodos de autenticação, proteção por senha e SSPR. | [Abrir-certificado](https://github.com/RegiMaria/azure-challenge/blob/main/Applied-Skills/Microsoft-Entra/day-02-authentication-capabilities-ENTRA-ID.png) | [Abrir curso](https://learn.microsoft.com/training/modules/explore-authentication-capabilities/?wt.mc_id=studentamb_625645) |
 | 03 | | Descrever as funcionalidades de gerenciamento de acesso do Microsoft Entra | Controle de acesso baseado em função e acesso condicional. | *(pendente)* | [Abrir curso](https://learn.microsoft.com/training/modules/explore-access-management-capabilities/?wt.mc_id=studentamb_625645) |
 | 04 | | Descrever os recursos de governança e proteção de identidade do Microsoft Entra | Governança de identidade, revisões de acesso e proteção de identidade. | *(pendente)* | [Abrir curso](https://learn.microsoft.com/training/modules/describe-identity-protection-governance-capabilities/?wt.mc_id=studentamb_625645) |
 | 05 | | Introdução aos laboratórios de identidade e acesso | Prática guiada em ambiente sandbox. | *(pendente)* | [Abrir curso](https://learn.microsoft.com/training/modules/get-started-identity-access-labs/?wt.mc_id=studentamb_625645) |
