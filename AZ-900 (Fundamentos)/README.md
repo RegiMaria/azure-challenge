@@ -7,11 +7,17 @@
 [![Microsoft Learn Profile](https://img.shields.io/badge/Microsoft%20Learn-Meu%20Perfil-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/regilenemariano-7913/)
 </div>
 
-## 🔷 O que é
+## 🔷 Sobre AZ-900
+Aborda conceitos gerais de computaçao em nuvem AZ-900 (Microsoft Azure Fundamentals).
 
-Este repositório reúne minhas anotações, exercícios e evidências de estudo enquanto percorro a trilha oficial da Microsoft **"Introduction to Cloud Infrastructure"**, série de 4 partes que prepara para a certificação **AZ-900: Microsoft Azure Fundamentals** — o ponto de entrada oficial da Microsoft para quem está começando na nuvem.
+Foco principal: Visão geral da nuvem e da plataforma Microsoft Azure.
+O que cai na prova: Conceitos básicos de nuvem (IaaS, PaaS, SaaS), segurança, privacidade, conformidade, além de preços e suporte do Azure.Para quem é: Iniciantes absolutos em tecnologia ou profissionais de áreas não técnicas que precisam entender o ecossistema de nuvem.
 
-## 🔷 Pra que serve
+## 🔷 O que é esse repositório
+
+Este repositório reúne minhas anotações, exercícios e evidências de estudo enquanto percorro a trilha oficial da Microsoft **"Introduction to Cloud Infrastructure"**, série de 4 partes que prepara para a certificação **AZ-900: Microsoft Azure Fundamentals** - o ponto de entrada oficial da Microsoft para quem está começando na nuvem.
+
+## 🔷 Pra que serve o repositório
 
 - Documentar meu progresso de estudo módulo a módulo
 - Servir de material de revisão antes do exame AZ-900
@@ -37,7 +43,7 @@ Este repositório reúne minhas anotações, exercícios e evidências de estudo
 
 ## ➡️➡️ Próximos passos
 
-Após concluir o AZ-900, a trilha segue para o **AZ-104 (Azure Administrator)**.
+Após concluir a trilha AZ-900, a trilha segue para o [**DP-900**](https://github.com/RegiMaria/azure-challenge/tree/main/DP-900(Fundamentos-II)).
 
 ---
 <div align="center">
