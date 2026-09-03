@@ -63,6 +63,32 @@ Trilha completa: 🔗 [Microsoft Certified: Azure Data Fundamentals](https://lea
 
 ---
 
+## 🔷 Applied Skills - prática extra para complementar o DP-900
+
+Diferente do AZ-900, o DP-900 não tem uma trilha oficial de "guided projects" na Microsoft Learn, é uma certificação mais conceitual. Mas a Microsoft oferece os Microsoft Applied Skills: credenciais gratuitas, baseadas em cenário, com labs reais (não simulados) no Azure/Fabric, que **validam habilidades práticas específicas**. Elas complementam muito bem os conceitos vistos nas 4 trilhas do DP-900.
+
+💡 Applied Skills não substituem nem são pré-requisito da certificação DP-900 - são um **complemento prático opcional**, cada uma rende um badge próprio verificável.
+
+#	Applied Skill	Complementa a trilha	Nível	Link
+| # | Applied Skill | Complementa a trilha | Nível | Link |
+|---|---|---|---|---|
+| 01 | Develop data-driven applications by using Microsoft Azure SQL Database | Dados relacionais no Azure | Intermediário | [Acessar](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-data-driven-applications-by-using-microsoft-azure-sql-database?wt.mc_id=studentamb_625645) |
+| 02 | Migrate SQL Server workloads to Azure SQL Database | Dados relacionais no Azure | Intermediário | [Acessar](https://learn.microsoft.com/en-us/credentials/applied-skills/migrate-sql-workloads-azure-sql-database?wt.mc_id=studentamb_625645) |
+| 03 | Implement a lakehouse in Microsoft Fabric | Dados não relacionais / Analytics | Intermediário | [Acessar](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric?wt.mc_id=studentamb_625645) |
+| 04 | Implement a data warehouse in Microsoft Fabric | Análise de dados no Azure | Intermediário | [Acessar](https://learn.microsoft.com/en-us/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric?wt.mc_id=studentamb_625645) |
+| 05 | Implement a Real-Time Intelligence solution with Microsoft Fabric | Análise de dados no Azure | Intermediário | [Acessar](https://learn.microsoft.com/credentials/applied-skills/implement-a-real-time-intelligence-solution-with-microsoft-fabric?wt.mc_id=studentamb_625645) |
+| 06 | Implement a data science and machine learning solution with Microsoft Fabric | Análise de dados no Azure (extra) | Intermediário | [Acessar](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-data-science-and-machine-learning-solution-with-microsoft-fabric?wt.mc_id=studentamb_625645) |
+
+>💡 Vamos preencher com ⭐ ou data de conclusão conforme cada Applied Skill for feita.
+
+
+
+
+
+
+---
+
+
 ## 🔷 Módulo extra (para quem pretende ensinar DP-900)
 
 ### Get tips and tricks for teaching DP-900 Microsoft Azure Data Fundamentals
