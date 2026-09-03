@@ -11,7 +11,10 @@
 Aborda conceitos gerais de computaçao em nuvem AZ-900 (Microsoft Azure Fundamentals).
 
 Foco principal: Visão geral da nuvem e da plataforma Microsoft Azure.
-O que cai na prova: Conceitos básicos de nuvem (IaaS, PaaS, SaaS), segurança, privacidade, conformidade, além de preços e suporte do Azure.Para quem é: Iniciantes absolutos em tecnologia ou profissionais de áreas não técnicas que precisam entender o ecossistema de nuvem.
+
+O que cai na prova: Conceitos básicos de nuvem (IaaS, PaaS, SaaS), segurança, privacidade, conformidade, além de preços e suporte do Azure.
+
+Para quem é: Iniciantes absolutos em tecnologia ou profissionais de áreas não técnicas que precisam entender o ecossistema de nuvem.
 
 ## 🔷 O que é esse repositório
 
