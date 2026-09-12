@@ -61,7 +61,7 @@ Este repositório documenta meu progresso na trilha iniciante de estudos da Micr
 
 | # | Badge/Credencial | Módulo referente | Bagdes / Trophies |
 |---|---|---|:---:|
-| 1 | Badge | Descobrir DevOps | *(adicionar imagem)* |
+| 1 | Badge | Descobrir DevOps | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/e3dbb421-9496-4aed-8512-869af023fe02" /> |
 | 2 | Badge | Planejar com DevOps | *(adicionar imagem)* |
 | 3 | Badge | Desenvolver com DevOps | *(adicionar imagem)* |
 | 4 | Badge | Fornecer com DevOps | *(adicionar imagem)* |
@@ -90,11 +90,11 @@ devops-foundations/
 
 | Dia | Data | Módulo | Descrição | Certificado (repo) | Link Microsoft Learn |
 |----|------|--------|-----------|---------------------|----------|
-| 01 | DD/MM | Descobrir DevOps | Colaboração, aprendizado contínuo, agilidade e automação no ciclo de vida do aplicativo. | [Abrir-certificado](LINK_DO_CERTIFICADO) | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/discover-devops/?wt.mc_id=studentamb_625645) |
-| 02 | DD/MM | Planejar com DevOps | Planejamento ágil de projetos usando quadros de projetos do GitHub. | [Abrir-certificado](LINK_DO_CERTIFICADO) | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/plan-with-devops/?wt.mc_id=studentamb_625645) |
-| 03 | DD/MM | Desenvolver com DevOps | Controle de versão com Git e GitHub, integração contínua, testes e segurança shift-left. | [Abrir-certificado](LINK_DO_CERTIFICADO) | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/develop-with-devops/?wt.mc_id=studentamb_625645) |
-| 04 | DD/MM | Fornecer com DevOps | Fluxos de trabalho de integração e entrega contínua usando o GitHub Actions. | [Abrir-certificado](LINK_DO_CERTIFICADO) | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/deliver-with-devops/?wt.mc_id=studentamb_625645) |
-| 05 | DD/MM | Operar com DevOps | Excelência operacional, observabilidade, SRE e engenharia de plataforma. | [Abrir-certificado](LINK_DO_CERTIFICADO) | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/operate-with-devops/?wt.mc_id=studentamb_625645) |
+| 01 | DD/MM | Descobrir DevOps | Colaboração, aprendizado contínuo, agilidade e automação no ciclo de vida do aplicativo. | [Abrir-certificado](https://github.com/RegiMaria/azure-challenge/blob/main/Engenheiro-DevOps/01-trilha-iniciante/day-01-fundamentos-desobrir-devops.png) | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/discover-devops/?wt.mc_id=studentamb_625645) |
+| 02 | DD/MM | Planejar com DevOps | Planejamento ágil de projetos usando quadros de projetos do GitHub. | _pendente_ | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/plan-with-devops/?wt.mc_id=studentamb_625645) |
+| 03 | DD/MM | Desenvolver com DevOps | Controle de versão com Git e GitHub, integração contínua, testes e segurança shift-left. |  _pendente_ | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/develop-with-devops/?wt.mc_id=studentamb_625645) |
+| 04 | DD/MM | Fornecer com DevOps | Fluxos de trabalho de integração e entrega contínua usando o GitHub Actions. |  _pendente_ | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/deliver-with-devops/?wt.mc_id=studentamb_625645) |
+| 05 | DD/MM | Operar com DevOps | Excelência operacional, observabilidade, SRE e engenharia de plataforma. |  _pendente_ | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/operate-with-devops/?wt.mc_id=studentamb_625645) |
 
 ---
 
