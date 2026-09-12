@@ -2,56 +2,65 @@
   <img width="150" height="150" alt="Badge - Fundamentos de DevOps" src="COLOQUE_AQUI_O_LINK_DO_BADGE" />
 </p>
 
-<h1 align="center"> 01-Trilha iniciante - Fundamentos de DevOps</h1>
+<h1 align="center">Engenheiro DevOps</h1>
 
-Este repositório documenta meu progresso na trilha iniciante de estudos da Microsoft Learn **Fundamentos do DevOps: Princípios e práticas fundamentais**.
-
-[Fundamentos do DevOps: Princípios e práticas fundamentais](https://learn.microsoft.com/pt-br/training/paths/devops-foundations-core-principles-practices/?wt.mc_id=studentamb_625645)
+Este repositório documenta meu progresso na jornada de estudos da Microsoft Learn rumo à trilha de **Engenheiro DevOps**, composta por 8 trilhas de aprendizagem (Learning Paths).
 
 ---
 
-## Sobre a trilha
+## Sobre a jornada
 
-> Descubra como o DevOps ajuda as equipes a planejar, desenvolver, entregar e operar soluções de software com mais eficiência, colaboração e qualidade.
+> Descubra como o DevOps ajuda as equipes a planejar, desenvolver, entregar e operar soluções de software com mais eficiência, colaboração e qualidade - do básico até os tópicos avançados da certificação AZ-400.
 
-## Learning Path
+## Programa completo
 
-[Fundamentos do DevOps: Princípios e práticas fundamentais](https://learn.microsoft.com/pt-br/training/paths/devops-foundations-core-principles-practices/?wt.mc_id=studentamb_625645)
+- **Duração total:** ≈ 36 h 52 min
+- **Trilhas (Learning Paths):** 8
+- **Módulos:** 46
 
-- **Duração total:** 4 h 16 min
-- **Tipo:** Learning Path
-- **Módulos:** 5
+---
+
+<div align="center">
+  <img width="150" alt="Microsoft Azure" src="https://github.com/user-attachments/assets/4f51bfbd-7e0e-4ce3-b216-d57ffaf18989" />
+</div>
 
 ---
 
 ## Módulos
 
-### 1. [Descobrir DevOps](https://learn.microsoft.com/pt-br/training/modules/discover-devops/?wt.mc_id=studentamb_625645)
-- **Duração:** 26 min
-- **Unidades:** 7
-- **Resumo:** otimize o gerenciamento do ciclo de vida do aplicativo por meio de práticas do DevOps, como colaboração, aprendizado contínuo, agilidade e automação. A organização se beneficia com a chegada acelerada ao mercado, a estabilidade e confiabilidade nas operações e minimiza o tempo médio de recuperação.
+### 1. [Fundamentos do DevOps: Princípios e práticas fundamentais](https://learn.microsoft.com/pt-br/training/paths/devops-foundations-core-principles-practices/?wt.mc_id=studentamb_625645)
+- **Duração:** 4 h 29 min
+- **Módulos:** 5
 
-### 2. [Planejar com DevOps](https://learn.microsoft.com/pt-br/training/modules/plan-with-devops/?wt.mc_id=studentamb_625645)
-- **Duração:** 57 min
-- **Unidades:** 8
-- **Resumo:** planeje seus projetos de desenvolvimento de software de forma ágil usando quadros de projetos do GitHub. Facilite a colaboração, a responsabilidade compartilhada, o aprendizado contínuo e a otimização por meio do controle de versão, da integração contínua e dos testes contínuos e da infraestrutura como código.
+### 2. [Definir e implementar a integração contínua](https://learn.microsoft.com/pt-br/training/paths/az-400-define-implement-continuous-integration/?wt.mc_id=studentamb_625645)
+- **Duração:** 1 h 21 min
+- **Módulos:** 1
 
-### 3. [Desenvolver com DevOps](https://learn.microsoft.com/pt-br/training/modules/develop-with-devops/?wt.mc_id=studentamb_625645)
-- **Duração:** 59 min
-- **Unidades:** 10
-- **Resumo:** otimize as atualizações para os projetos de desenvolvimento de software aplicando o controle de versão com o Git e o GitHub. O ciclo de vida do software melhora por meio da implementação de integração contínua, testes shift-left e segurança shift-left.
+### 3. [Gerenciar controle do código-fonte](https://learn.microsoft.com/pt-br/training/paths/az-400-manage-source-control/?wt.mc_id=studentamb_625645)
+- **Duração:** 15 h
+- **Módulos:** 14
 
-### 4. [Fornecer com DevOps](https://learn.microsoft.com/pt-br/training/modules/deliver-with-devops/?wt.mc_id=studentamb_625645)
-- **Duração:** 1 h
-- **Unidades:** 8
-- **Resumo:** crie e execute fluxos de trabalho de integração contínua e entrega contínua usando o GitHub Actions. Seus fluxos de trabalho terão ciclos de lançamento acelerados, maior resiliência, colaboração e reutilização aprimoradas e infraestrutura como código.
+### 4. [Desenvolver uma estratégia de SRE (Engenharia de Confiabilidade de Site)](https://learn.microsoft.com/pt-br/training/paths/az-400-develop-sre-strategy/?wt.mc_id=studentamb_625645)
+- **Duração:** 4 h 12 min
+- **Módulos:** 5
 
-### 5. [Operar com DevOps](https://learn.microsoft.com/pt-br/training/modules/operate-with-devops/?wt.mc_id=studentamb_625645)
-- **Duração:** 54 min
-- **Unidades:** 10
-- **Resumo:** alcance a excelência operacional e melhore a experiência do desenvolvedor em sua organização por meio do DevOps. Suas práticas operacionais e de desenvolvimento melhoram ao implementar os testes shift-right, a observabilidade por meio de monitoramento de desempenho e segurança, a Engenharia de Confiabilidade do Site e a engenharia de plataforma.
+### 5. [Desenvolver um plano de segurança e conformidade](https://learn.microsoft.com/pt-br/training/paths/az-400-develop-security-compliance-plan/?wt.mc_id=studentamb_625645)
+- **Duração:** 4 h 13 min
+- **Módulos:** 6
 
-**Duração total do Learning Path:** 4 h 16 min *(todas as avaliações dos módulos aprovadas)*
+### 6. [Desenvolver uma estratégia de instrumentação](https://learn.microsoft.com/pt-br/training/paths/az-400-develop-instrumentation-strategy/?wt.mc_id=studentamb_625645)
+- **Duração:** 3 h 53 min
+- **Módulos:** 4
+
+### 7. [Facilitar a comunicação e a colaboração](https://learn.microsoft.com/pt-br/training/paths/az-400-facilitate-communication-collaboration/?wt.mc_id=studentamb_625645)
+- **Duração:** 1 h 44 min
+- **Módulos:** 5
+
+### 8. [Introduza o DevOps Dojo: crie eficiências que dão suporte à sua empresa](https://learn.microsoft.com/pt-br/training/paths/devops-dojo-white-belt-foundation/?wt.mc_id=studentamb_625645)
+- **Duração:** 2 h
+- **Módulos:** 6
+
+**Duração total do programa:** ≈ 36 h 52 min *(46 módulos ao todo)*
 
 ---
 
@@ -59,50 +68,55 @@ Este repositório documenta meu progresso na trilha iniciante de estudos da Micr
 
 > 🖼️ *Imagens ainda serão organizadas*
 
-| # | Badge/Credencial | Módulo referente | Bagdes / Trophies |
+| # | Badge/Credencial | Trilha referente | Bagdes / Trophies |
 |---|---|---|:---:|
-| 1 | Badge | Descobrir DevOps | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/e3dbb421-9496-4aed-8512-869af023fe02" /> |
-| 2 | Badge | Planejar com DevOps | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/537040c7-7158-472a-ae08-47bde77973c4" />|
-| 3 | Badge | Desenvolver com DevOps | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/e3dbb421-9496-4aed-8512-869af023fe02" /> |
-| 4 | Badge | Fornecer com DevOps | *(adicionar imagem)* |
-| 5 | Badge | Operar com DevOps | *(adicionar imagem)* |
-| 🏆 | Trophy | Fundamentos do DevOps: Princípios e práticas fundamentais | *(adicionar imagem)* |
+| 1 | Trophy | Fundamentos do DevOps: Princípios e práticas fundamentais | *(adicionar imagem)* |
+| 2 | Trophy | Definir e implementar a integração contínua | *(adicionar imagem)* |
+| 3 | Trophy | Gerenciar controle do código-fonte | *(adicionar imagem)* |
+| 4 | Trophy | Desenvolver uma estratégia de SRE (Engenharia de Confiabilidade de Site) | *(adicionar imagem)* |
+| 5 | Trophy | Desenvolver um plano de segurança e conformidade | *(adicionar imagem)* |
+| 6 | Trophy | Desenvolver uma estratégia de instrumentação | *(adicionar imagem)* |
+| 7 | Trophy | Facilitar a comunicação e a colaboração | *(adicionar imagem)* |
+| 8 | Trophy | Introduza o DevOps Dojo: crie eficiências que dão suporte à sua empresa | *(adicionar imagem)* |
 
 ---
 
 ## Estrutura do repositório
 
 ```
-devops-foundations/
+engenheiro-devops/
+├── 01-trilha-iniciante
 ├── README.md
-├── badges/          # (a criar) imagens dos badges dos módulos
-└── certificados/     # (a criar) certificado final da trilha (se houver)
 ```
 
 ---
 
 ## Meu progresso
 
+<div align="center">
+  <img width="200" alt="Image" src="https://github.com/user-attachments/assets/52b55575-06bf-47c0-8419-746256e1523f" />
+</div>
 
-<div align="center"> <img width="200" alt="Image" src="https://github.com/user-attachments/assets/52b55575-06bf-47c0-8419-746256e1523f" /> </div>
-
-
-
-| Dia | Data | Módulo | Descrição | Certificado (repo) | Link Microsoft Learn |
+| Dia | Data | Trilha | Descrição | Certificado (repo) | Link Microsoft Learn |
 |----|------|--------|-----------|---------------------|----------|
-| 01 | 11/09 | Descobrir DevOps | Colaboração, aprendizado contínuo, agilidade e automação no ciclo de vida do aplicativo. | [Abrir-certificado](https://github.com/RegiMaria/azure-challenge/blob/main/Engenheiro-DevOps/01-trilha-iniciante/day-01-fundamentos-desobrir-devops.png) | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/discover-devops/?wt.mc_id=studentamb_625645) |
-| 02 | 12/09 | Planejar com DevOps | Planejamento ágil de projetos usando quadros de projetos do GitHub. | [Abrir-certificado](https://github.com/RegiMaria/azure-challenge/blob/main/Engenheiro-DevOps/01-trilha-iniciante/day-02-fundamentos-planejar-devops.png) | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/plan-with-devops/?wt.mc_id=studentamb_625645) |
-| 03 | 12/09 | Desenvolver com DevOps | Controle de versão com Git e GitHub, integração contínua, testes e segurança shift-left. |  [Abrir-certificado](https://github.com/RegiMaria/azure-challenge/blob/main/Engenheiro-DevOps/01-trilha-iniciante/day-03-fundamentos-desenvolver-com-devops.png) | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/develop-with-devops/?wt.mc_id=studentamb_625645) |
-| 04 | DD/MM | Fornecer com DevOps | Fluxos de trabalho de integração e entrega contínua usando o GitHub Actions. |  _pendente_ | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/deliver-with-devops/?wt.mc_id=studentamb_625645) |
-| 05 | DD/MM | Operar com DevOps | Excelência operacional, observabilidade, SRE e engenharia de plataforma. |  _pendente_ | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/operate-with-devops/?wt.mc_id=studentamb_625645) |
+| 01 | 11/09 | Fundamentos do DevOps: Princípios e práticas fundamentais | Colaboração, aprendizado contínuo, agilidade, automação e ciclo de vida do aplicativo com DevOps. | _em andamento_ | [Abrir trilha](https://learn.microsoft.com/pt-br/training/paths/devops-foundations-core-principles-practices/?wt.mc_id=studentamb_625645) |
+| 02 | DD/MM | Definir e implementar a integração contínua | Práticas e ferramentas de integração contínua no Azure DevOps/GitHub. | _pendente_ | [Abrir trilha](https://learn.microsoft.com/pt-br/training/paths/az-400-define-implement-continuous-integration/?wt.mc_id=studentamb_625645) |
+| 03 | DD/MM | Gerenciar controle do código-fonte | Estratégias de branching, versionamento e colaboração no controle de código-fonte. | _pendente_ | [Abrir trilha](https://learn.microsoft.com/pt-br/training/paths/az-400-manage-source-control/?wt.mc_id=studentamb_625645) |
+| 04 | DD/MM | Desenvolver uma estratégia de SRE (Engenharia de Confiabilidade de Site) | Engenharia de Confiabilidade de Site (SRE) e resiliência operacional. | _pendente_ | [Abrir trilha](https://learn.microsoft.com/pt-br/training/paths/az-400-develop-sre-strategy/?wt.mc_id=studentamb_625645) |
+| 05 | DD/MM | Desenvolver um plano de segurança e conformidade | Segurança, governança e conformidade em pipelines DevOps. | _pendente_ | [Abrir trilha](https://learn.microsoft.com/pt-br/training/paths/az-400-develop-security-compliance-plan/?wt.mc_id=studentamb_625645) |
+| 06 | DD/MM | Desenvolver uma estratégia de instrumentação | Monitoramento, telemetria e observabilidade de aplicações. | _pendente_ | [Abrir trilha](https://learn.microsoft.com/pt-br/training/paths/az-400-develop-instrumentation-strategy/?wt.mc_id=studentamb_625645) |
+| 07 | DD/MM | Facilitar a comunicação e a colaboração | Cultura DevOps, comunicação entre times e colaboração eficiente. | _pendente_ | [Abrir trilha](https://learn.microsoft.com/pt-br/training/paths/az-400-facilitate-communication-collaboration/?wt.mc_id=studentamb_625645) |
+| 08 | DD/MM | Introduza o DevOps Dojo: crie eficiências que dão suporte à sua empresa | Eficiências e práticas que dão suporte ao negócio por meio do DevOps. | _pendente_ | [Abrir trilha](https://learn.microsoft.com/pt-br/training/paths/devops-dojo-white-belt-foundation/?wt.mc_id=studentamb_625645) |
 
 ---
 
 <div align="center">
+
 🏆 Conquista Desbloqueada
 <p></p>
 <div align="center">
 <img width="150" height="150" alt="Trophy - Fundamentos do DevOps" src="COLOQUE_AQUI_O_LINK_DO_BADGE" />
+
 <div/>
 
 ✅ Fundamentos do DevOps: Princípios e práticas fundamentais
@@ -113,14 +127,6 @@ devops-foundations/
 
 ---
 
-<div align="center">
-  <img width="150" alt="Microsoft Azure" src="https://github.com/user-attachments/assets/4f51bfbd-7e0e-4ce3-b216-d57ffaf18989" />
-</div>
-
-
-
-
----
 <div align="center">
 
 Se gostou, deixa uma ⭐
