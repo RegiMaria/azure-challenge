@@ -32,7 +32,7 @@ engenheiro-devops/
 | [03 · Avançada](#03-trilha-avançada) | 44 h 42 min | 47 | ⏳ Pendente |
 | [04 · Microsoft Applied Skills](#04-microsoft-applied-skills) | 7 h 18 min + avaliação (2h) | 7 | ⏳ Pendente |
 
-> A trilha 04 usa o mesmo Learning Path "Implementar a segurança por meio de um pipeline usando o Azure DevOps" já contabilizado na trilha 02, mas aqui ele é validado por uma avaliação prática em laboratório (credencial Applied Skills) — por isso não somamos a duração dele de novo no total geral.
+> A trilha 04 usa o mesmo Learning Path "Implementar a segurança por meio de um pipeline usando o Azure DevOps" já contabilizado na trilha 02, mas aqui ele é validado por uma avaliação prática em laboratório (credencial Applied Skills) - por isso não somamos a duração dele de novo no total geral.
 
 **Total geral (trilhas 01 a 03):** ≈ 108 h 36 min · 116 módulos
 
@@ -114,7 +114,9 @@ engenheiro-devops/
 <div align="center">
   <img width="80" alt="Microsoft Azure" src="https://github.com/user-attachments/assets/4f51bfbd-7e0e-4ce3-b216-d57ffaf18989" />
 </div>
+
 ---
+
 ## 03-trilha-avançada
 
 ### 1. [AZ-400: Desenvolvimento para DevOps Empresarial](https://learn.microsoft.com/pt-br/training/paths/az-400-work-git-for-enterprise-devops/?wt.mc_id=studentamb_625645)
@@ -265,7 +267,7 @@ engenheiro-devops/
 <img width="150" height="150" alt="Trophy - Engenheiro DevOps" src="COLOQUE_AQUI_O_LINK_DO_BADGE" />
 <div/>
 
-✅ Engenheiro DevOps — jornada completa
+✅ Engenheiro DevOps - jornada completa
 
 🔗[ Ver credencial oficial](LINK_DA_CREDENCIAL_OFICIAL)
 
