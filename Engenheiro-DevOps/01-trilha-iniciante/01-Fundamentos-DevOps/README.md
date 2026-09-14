@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" height="150" alt="Badge - Fundamentos de DevOps" src="COLOQUE_AQUI_O_LINK_DO_BADGE" />
+  <img width="150" height="150" alt="Badge - Fundamentos de DevOps" src="https://github.com/user-attachments/assets/d61d5342-e249-4f72-8892-649bfa8fe171" />
 </p>
 
 <h1 align="center"> 01-Trilha iniciante - Fundamentos de DevOps</h1>
@@ -55,6 +55,14 @@ Este repositório documenta meu progresso na trilha iniciante de estudos da Micr
 
 ---
 
+<div align="center">
+  <img width="100" alt="Microsoft Azure" src="https://github.com/user-attachments/assets/4f51bfbd-7e0e-4ce3-b216-d57ffaf18989" />
+</div>
+
+
+
+---
+
 ## Badges e Certificados
 
 > 🖼️ *Imagens ainda serão organizadas*
@@ -65,8 +73,8 @@ Este repositório documenta meu progresso na trilha iniciante de estudos da Micr
 | 2 | Badge | Planejar com DevOps | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/537040c7-7158-472a-ae08-47bde77973c4" />|
 | 3 | Badge | Desenvolver com DevOps | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/e3dbb421-9496-4aed-8512-869af023fe02" /> |
 | 4 | Badge | Fornecer com DevOps | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/d61d5342-e249-4f72-8892-649bfa8fe171" /> |
-| 5 | Badge | Operar com DevOps | *(adicionar imagem)* |
-| 🏆 | Trophy | Fundamentos do DevOps: Princípios e práticas fundamentais | *(adicionar imagem)* |
+| 5 | Badge | Operar com DevOps | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/d61d5342-e249-4f72-8892-649bfa8fe171" /> |
+| 🏆 | Trophy | Fundamentos do DevOps: Princípios e práticas fundamentais | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/d61d5342-e249-4f72-8892-649bfa8fe171" /> |
 
 ---
 
@@ -94,7 +102,7 @@ devops-foundations/
 | 02 | 12/09 | Planejar com DevOps | Planejamento ágil de projetos usando quadros de projetos do GitHub. | [Abrir-certificado](https://github.com/RegiMaria/azure-challenge/blob/main/Engenheiro-DevOps/01-trilha-iniciante/day-02-fundamentos-planejar-devops.png) | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/plan-with-devops/?wt.mc_id=studentamb_625645) |
 | 03 | 12/09 | Desenvolver com DevOps | Controle de versão com Git e GitHub, integração contínua, testes e segurança shift-left. |  [Abrir-certificado](https://github.com/RegiMaria/azure-challenge/blob/main/Engenheiro-DevOps/01-trilha-iniciante/day-03-fundamentos-desenvolver-com-devops.png) | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/develop-with-devops/?wt.mc_id=studentamb_625645) |
 | 04 | 13/09 | Fornecer com DevOps | Fluxos de trabalho de integração e entrega contínua usando o GitHub Actions. |  [Abrir-certificado](https://github.com/RegiMaria/azure-challenge/blob/main/Engenheiro-DevOps/01-trilha-iniciante/01-Fundamentos-DevOps/day-04-fundamentos-entregar-devops.png) | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/deliver-with-devops/?wt.mc_id=studentamb_625645) |
-| 05 | DD/MM | Operar com DevOps | Excelência operacional, observabilidade, SRE e engenharia de plataforma. |  _pendente_ | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/operate-with-devops/?wt.mc_id=studentamb_625645) |
+| 05 | DD/MM | Operar com DevOps | Excelência operacional, observabilidade, SRE e engenharia de plataforma. |  [Abrir-certificado](https://github.com/RegiMaria/azure-challenge/blob/main/Engenheiro-DevOps/01-trilha-iniciante/01-Fundamentos-DevOps/day-05-fundamentos-operar-devops.png) | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/operate-with-devops/?wt.mc_id=studentamb_625645) |
 
 ---
 
@@ -102,25 +110,17 @@ devops-foundations/
 🏆 Conquista Desbloqueada
 <p></p>
 <div align="center">
-<img width="150" height="150" alt="Trophy - Fundamentos do DevOps" src="COLOQUE_AQUI_O_LINK_DO_BADGE" />
+<img width="150" height="150" alt="Trophy - Fundamentos do DevOps" src="https://github.com/user-attachments/assets/d61d5342-e249-4f72-8892-649bfa8fe171" />
 <div/>
 
 ✅ Fundamentos do DevOps: Princípios e práticas fundamentais
 
-🔗[ Ver credencial oficial](LINK_DA_CREDENCIAL_OFICIAL)
+🔗[ Ver credencial oficial](https://learn.microsoft.com/en-us/users/regilenemariano-7913/)
 
 </div>
 
 ---
 
-<div align="center">
-  <img width="150" alt="Microsoft Azure" src="https://github.com/user-attachments/assets/4f51bfbd-7e0e-4ce3-b216-d57ffaf18989" />
-</div>
-
-
-
-
----
 <div align="center">
 
 Se gostou, deixa uma ⭐
