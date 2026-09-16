@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" height="150" alt="Badge - Definir e implementar a integração contínua" src="COLOQUE_AQUI_O_LINK_DO_BADGE" />
+  <img width="150" height="150" alt="Badge - Definir e implementar a integração contínua" src="https://github.com/user-attachments/assets/88b81735-11b0-41b2-9a83-4a9cc9ac5455"  />
 </p>
 
 <h1 align="center">Definir e implementar a integração contínua</h1>
@@ -39,8 +39,8 @@ Este repositório documenta meu progresso na trilha de estudos da Microsoft Lear
 
 | # | Badge/Credencial | Módulo referente | Bagdes / Trophies |
 |---|---|---|:---:|
-| 1 | Badge | Criar fluxos de trabalho de integração contínua usando o GitHub Actions | *(adicionar imagem)* |
-| 🏆 | Trophy | Definir e implementar a integração contínua | *(adicionar imagem)* |
+| 1 | Badge | Criar fluxos de trabalho de integração contínua usando o GitHub Actions | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/77ba6c5b-7d20-467c-887f-79a38fe75451" /> |
+| 🏆 | Trophy | Definir e implementar a integração contínua | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/88b81735-11b0-41b2-9a83-4a9cc9ac5455" /> |
 
 ---
 
@@ -71,12 +71,12 @@ Este repositório documenta meu progresso na trilha de estudos da Microsoft Lear
 🏆 Conquista Desbloqueada
 <p></p>
 <div align="center">
-<img width="150" height="150" alt="Trophy - Definir e implementar a integração contínua" src="COLOQUE_AQUI_O_LINK_DO_BADGE" />
+<img width="150" height="150" alt="Trophy - Definir e implementar a integração contínua" src="https://github.com/user-attachments/assets/88b81735-11b0-41b2-9a83-4a9cc9ac5455" />
 <div/>
 
 ✅ Definir e implementar a integração contínua
 
-🔗[ Ver credencial oficial](LINK_DA_CREDENCIAL_OFICIAL)
+🔗[ Ver credencial oficial](https://learn.microsoft.com/pt-br/users/regilenemariano-7913/achievements)
 
 </div>
 
