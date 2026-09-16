@@ -63,9 +63,16 @@ Este repositório documenta meu progresso na trilha de estudos da Microsoft Lear
 
 | Dia | Data | Módulo | Descrição | Certificado (repo) | Link Microsoft Learn |
 |----|------|--------|-----------|---------------------|----------|
-| 01 | DD/MM | Criar fluxos de trabalho de integração contínua usando o GitHub Actions | Criação de fluxos de trabalho de CI com o GitHub Actions. | _pendente_ | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/github-actions-ci/?wt.mc_id=studentamb_625645) |
+| 01 | DD/MM | Criar fluxos de trabalho de integração contínua usando o GitHub Actions | Criação de fluxos de trabalho de CI com o GitHub Actions. | [Abrir-certificado](https://github.com/RegiMaria/azure-challenge/blob/main/Engenheiro-DevOps/01-trilha-iniciante/02-Definir-implementar-CI/day-01-Definir-implementar-CI.png) | [Abrir curso](https://learn.microsoft.com/pt-br/training/modules/github-actions-ci/?wt.mc_id=studentamb_625645) |
 
 ---
+
+## Laboratórios GitHub Actions
+
+🤩[Estudo prático de GitHub Actions](https://github.com/RegiMaria/github-actions-labs)
+
+---
+
 
 <div align="center">
 🏆 Conquista Desbloqueada
