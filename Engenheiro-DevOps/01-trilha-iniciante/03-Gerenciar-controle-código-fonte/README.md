@@ -102,7 +102,7 @@ Este repositório documenta meu progresso na trilha de estudos da Microsoft Lear
 | # | Badge/Credencial | Módulo referente | Bagdes / Trophies |
 |---|---|---|:---:|
 | 1 | Badge | Introdução ao GitHub | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/dea2b7cc-b7a5-4088-b18a-87fb381d3d10" /> |
-| 2 | Badge | Migrar seu repositório usando as práticas recomendadas do GitHub | *(adicionar imagem)*  |
+| 2 | Badge | Migrar seu repositório usando as práticas recomendadas do GitHub | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/8696c254-5e8a-42f1-9696-a3c70dde8f53" />  |
 | 3 | Badge | Carregar seu projeto usando as práticas recomendadas do GitHub | *(adicionar imagem)* |
 | 4 | Badge | Gerenciar alterações de repositório usando solicitações de pull no GitHub | *(adicionar imagem)* |
 | 5 | Badge | Solucionar confirmações concorrentes usando a resolução de conflitos de mesclagem no GitHub | *(adicionar imagem)* |
