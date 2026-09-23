@@ -109,7 +109,7 @@ Este repositório documenta meu progresso na trilha de estudos da Microsoft Lear
 | 6 | Badge | Pesquisar e organizar o histórico do repositório usando o GitHub | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/f4417a6e-ad7b-42cd-843c-2761c614b3d8" /> |
 | 7 | Badge | Gerenciar um programa InnerSource usando o GitHub | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/5f677156-a68d-4d2b-98e6-08aef7a6f80f" /> |
 | 8 | Badge | Comunicar-se efetivamente no GitHub usando Markdown | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/ab073aca-de2e-4313-a3f6-956a7915dd12" /> |
-| 9 | Badge | Manter um repositório seguro com as melhores práticas do GitHub | *(adicionar imagem)* |
+| 9 | Badge | Manter um repositório seguro com as melhores práticas do GitHub | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/f08ec91d-336e-4c15-9ca5-5b1cd2d02f64" /> |
 | 10 | Badge | Automatizar processos de DevOps usando Aplicativos do GitHub | *(adicionar imagem)* |
 | 11 | Badge | Automatizar o GitHub usando o GitHub Script | *(adicionar imagem)* |
 | 12 | Badge | Gerenciar a entrega de software usando um fluxo de trabalho baseado em versão no GitHub | *(adicionar imagem)* |
