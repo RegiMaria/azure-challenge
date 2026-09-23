@@ -108,7 +108,7 @@ Este repositório documenta meu progresso na trilha de estudos da Microsoft Lear
 | 5 | Badge | Solucionar confirmações concorrentes usando a resolução de conflitos de mesclagem no GitHub | [<img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/394ea4d8-94fd-4531-b86f-88ff44816e0f" />](https://github.com/RegiMaria/azure-challenge/blob/main/Engenheiro-DevOps/01-trilha-iniciante/03-Gerenciar-controle-c%C3%B3digo-fonte/day-06-organizar-historico-repositorio.png) |
 | 6 | Badge | Pesquisar e organizar o histórico do repositório usando o GitHub | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/f4417a6e-ad7b-42cd-843c-2761c614b3d8" /> |
 | 7 | Badge | Gerenciar um programa InnerSource usando o GitHub | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/5f677156-a68d-4d2b-98e6-08aef7a6f80f" /> |
-| 8 | Badge | Comunicar-se efetivamente no GitHub usando Markdown | *(adicionar imagem)* |
+| 8 | Badge | Comunicar-se efetivamente no GitHub usando Markdown | <img width="50" height="53" alt="Badge - Descobrir DevOps" src="https://github.com/user-attachments/assets/ab073aca-de2e-4313-a3f6-956a7915dd12" /> |
 | 9 | Badge | Manter um repositório seguro com as melhores práticas do GitHub | *(adicionar imagem)* |
 | 10 | Badge | Automatizar processos de DevOps usando Aplicativos do GitHub | *(adicionar imagem)* |
 | 11 | Badge | Automatizar o GitHub usando o GitHub Script | *(adicionar imagem)* |
